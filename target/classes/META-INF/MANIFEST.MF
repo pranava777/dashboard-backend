@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: dashboard
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: userss
+Implementation-Vendor-Id: com.springboot
+Build-Jdk: 1.8.0_192
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/dashboard
+Created-By: Maven Integration for Eclipse
+
