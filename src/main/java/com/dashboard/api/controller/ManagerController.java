@@ -20,7 +20,6 @@ import com.fasterxml.jackson.databind.node.ObjectNode;
 
 @RestController
 @RequestMapping(path = "/")
-@CrossOrigin(origins = "http://localhost:4200")
 public class ManagerController {
 	
 	//reference variable of UserService
